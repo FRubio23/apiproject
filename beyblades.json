@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Hells_Scythe",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/8/8e/Hells_Scythe_4-60T.jpeg/revision/latest?cb=20230517044323",
+    "type": "Attack",
+    "spin_direction": "Left",
+    "weight": "52g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Wizard_Arrow",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/4/44/BladeWizardArrow.png/revision/latest?cb=20230807025620",
+    "type": "Balance",
+    "spin_direction": "Right",
+    "weight": "45g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Knight_Shield",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/a/ab/Knight_Shield_3-80N.jpeg/revision/latest?cb=20230517045417",
+    "type": "Defense",
+    "spin_direction": "Right",
+    "weight": "50g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Wizard_Arrow_Red",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/4/49/Wizard_Arrow_4-80B_%28BX-05%29.jpeg/revision/latest/scale-to-width-down/1000?cb=20230517045924",
+    "type": "Balance",
+    "spin_direction": "Right",
+    "weight": "45g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Knight_Shield_Blue",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/f/f5/Knight_Shield_3-80N_%28BX-06%29.jpeg/revision/latest/scale-to-width-down/1000?cb=20230517050217",
+    "type": "Defense",
+    "spin_direction": "Right",
+    "weight": "50g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Knight_Lance",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/1/1b/Knight_Lance_4-80HN.jpeg/revision/latest?cb=20230713173320",
+    "type": "Attack",
+    "spin_direction": "Left",
+    "weight": "55g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Leon_Claw",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/d/da/Leon_Claw_5-60P.jpeg/revision/latest?cb=20230914033817",
+    "type": "Stamina",
+    "spin_direction": "Right",
+    "weight": "47g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Rhino_Horn",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/3/3b/Rhino_Horn_3-80S.jpeg/revision/latest?cb=20231013160027",
+    "type": "Defense",
+    "spin_direction": "Left",
+    "weight": "53g",
+    "system": "Layer System"
+  },
+  {
+    "name": "Phoenix_Wing",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/6/66/Phoenix_Wing_9-60GF.jpeg/revision/latest?cb=20231114155235",
+    "type": "Attack",
+    "spin_direction": "Right",
+    "weight": "58g",
+    "system": "Disk System"
+  },
+  {
+    "name": "Unicorn_Sting",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/e/ef/Unicorn_Sting_5-60GP.jpg/revision/latest?cb=20240114181401",
+    "type": "Balance",
+    "spin_direction": "Right",
+    "weight": "49g",
+    "system": "Disk System"
+  },
+  {
+    "name": "Dranzer_Spiral",
+    "imgUrl": "https://static.wikia.nocookie.net/beyblade/images/4/4f/Dranzer_Spiral_3-80T.jpeg/revision/latest?cb=20230607155824",
+    "type": "Stamina",
+    "spin_direction": "Right",
+    "weight": "50g",
+    "system": "Layer System"
+  }
+]
